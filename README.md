@@ -1,0 +1,2 @@
+# TrinitySeal
+ Unofficial TrinitySeal dll
